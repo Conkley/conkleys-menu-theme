@@ -1,0 +1,7 @@
+Menu theme installation guide
+
+It is quite easy to install the theme :P
+
+All you have to do is place it in your IW4x Directory > userraw
+
+Seems easy right?

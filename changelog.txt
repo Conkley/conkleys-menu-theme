@@ -1,0 +1,15 @@
+Conkley's Menu Theme Changelog! (Current Version 1.1)
+======================
+Version 1.1
+======================
+• Added playercard information on the main menu which is interactive
+• Added readme.txt, changelog.txt, how_to_install.txt all in the .iwd
+• Changed the menu title to "IW4x: Multiplayer" instead of just IW4x
+• Changed the "Quit" option to now say "Quit Game"
+
+======================
+Version 1.0 Release
+======================
+• Added custom background image for most menus in-game
+• Added custom menu music
+• Added a blue glow instead of the green iw4x one
