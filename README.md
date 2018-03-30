@@ -3,7 +3,7 @@ A custom menu w/ music for the IW4x: Modern Warfare 2 client.
 
 # Download
 To download the menu theme, compile the source code here into an .iwd.</br>
-Alternatively download it from these mirrors: [Mediafire](http://www.mediafire.com/file/fezhze17rvyccym/z_Menu_Conkley.iwd) |[MEGA](https://mega.nz/#!4q4BkLTA!KMoap754EjVBpH4Vnvm70sIbrAg2JIeuDURH6obC4aU)
+Alternatively download it from these mirrors: [Mediafire](http://www.mediafire.com/file/fezhze17rvyccym/z_Menu_Conkley.iwd) | [MEGA](https://mega.nz/#!4q4BkLTA!KMoap754EjVBpH4Vnvm70sIbrAg2JIeuDURH6obC4aU)
 
 # Screenshot
 ![Main Menu](https://image.prntscr.com/image/H_7JsQPbRRGbxn51Z725gA.png)
