@@ -1,3 +1,11 @@
+/* Custom Main Menu for IW4x
+*  Made by Conkley
+*  Don't edit these files unless you know what you are doing!
+*  Don't forget to star the repo too ;)
+*  To install drag the .iwd to your IW4x userraw directory
+*  Have fun!
+*/
+
 #include "ui/menudef.h"
 #include "ui_mp/main.inc"
 #include "ui_mp/logo.inc"
