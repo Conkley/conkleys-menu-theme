@@ -6,4 +6,4 @@ To download the menu theme, compile the source code here into an .iwd.
 Alternatively download it from: https://mega.nz/#!4q4BkLTA!KMoap754EjVBpH4Vnvm70sIbrAg2JIeuDURH6obC4aU
 
 # Screenshots
-![Main Menu](http://prntscr.com/iyb9c2)
+![Main Menu](https://image.prntscr.com/image/H_7JsQPbRRGbxn51Z725gA.png)
