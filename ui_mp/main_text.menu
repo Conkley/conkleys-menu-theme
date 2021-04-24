@@ -12,7 +12,7 @@
 
 #define MENU_NAME					"main_text"
 #define MENU_MUSIC					"music_mainmenu_mp"
-#define MENU_TITLE					"IW4x: Multiplayer"
+#define MENU_TITLE					" #WeFlyHigh By LocoP"
 
 #undef CHOICE_GROUP
 #define CHOICE_GROUP				MENU_NAME
